@@ -12,7 +12,7 @@ const DoctorDetails = () => {
       <Navbar />
 
       <PageBanner
-        pageTitle="Dr. Matthew Wilson"
+        pageTitle="Dr. Mathew Wilson"
         homePageUrl="/"
         homePageText="Home"
         activePageText="Dr. Mathew Wilson"
@@ -58,7 +58,7 @@ const DoctorDetails = () => {
               <div className="doctor-details-item">
                 <div className="doctor-details-right">
                   <div className="doctor-details-biography">
-                    <h3>Dr. Matthew Wilson</h3>
+                    <h3>Dr. Mathew Wilson</h3>
                     {/* <p>MBBS in Neurology, PHD in Neurosurgeon</p> */}
                     {/* <p>
                       Sports Medicine, Children’s Health, Chronic Disease
