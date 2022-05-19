@@ -86,7 +86,7 @@ const Navbar = () => {
                     <li className="nav-item">
                       <Link href="/dr-mathew" activeClassName="active">
                         <a onClick={toggleNavbar} className="nav-link">
-                          Dr. Matthew Wilson
+                          Dr. Mathew Wilson
                         </a>
                       </Link>
                     </li>
