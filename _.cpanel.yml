@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/theeyela/repositories/cfcare
+    - /bin/cp -R images $DEPLOYPATH
