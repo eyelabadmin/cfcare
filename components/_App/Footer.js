@@ -85,7 +85,7 @@ const Footer = () => {
                                             <a href="https://automedsystems.com.au/online/clinics/64/complete-family-care-medical-centre-newport-3015/referrals/loc/1">Request Referral</a>
                                         </li>
                                         <li>
-                                            <a href="https://www.theeyelab.com.au/appointment/">Optometrist</a>
+                                            <a href="https://www.opticalbookings.com.au/the-eye-lab-melbourne-optometry-newport/store/?_ga=2.21277819.1982372164.1652942218-200507786.1652942218">Optometrist</a>
                                         </li>
                                         <li>
                                             <a href="https://automedsystems.com.au/online/clinics/64/complete-family-care-medical-centre-newport-3015/doctors">Online Booking</a>
@@ -162,7 +162,7 @@ const Footer = () => {
             <div className="copyright-area">
                 <div className="container">
                     <div className="copyright-item">
-                        <p>Copyright (c) 2021 Design & Developed by <a href="https://lavonglobal.com.au/" target="_blank">Lavon Global</a></p>
+                        <p>Copyright (c) 2021 Design & Developed by Vics meida Group </a></p>
                     </div>
                 </div>
             </div>
